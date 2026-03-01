@@ -94,5 +94,6 @@ async def check_birthdays():
 async def before_check_birthdays():
     await bot.wait_until_ready()
 
-# Replace 'YOUR_BOT_TOKEN' with your actual bot token
-bot.run('MTMyMDY0NDYzODEyMTY2MDQ0OA.Gd73IE.T_0vaUmSpxxW90kpDNNCpnxxkoBeHXNjF8rU6E')
+# Token
+bot.run('your token')
+
